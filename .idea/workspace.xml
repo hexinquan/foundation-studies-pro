@@ -2,345 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1a58b37-17f1-4bf2-892f-2190ab3ca73f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/foundation-studies-pro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_46.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_11_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/._.DS_Store" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/Proxy/ProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/advice/JsonFilterResponseBodyAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/annotaion/JsonFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/JsonFilterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/entity/base/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/entity/base/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/mapper/CustomerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/mapper/base/BaseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/mapper/base/TkBaseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/vo/CustomerVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/vo/base/BaseVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/domain/CustomerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/filter/DemoOneFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/intecpter/DemoIntecpter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/intecpter/DemoWebMvcConfigurer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/listener/DemoListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/DemoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/ICustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/DemoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/mapper/CustomerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/fm/demo.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/trigger.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/DemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/Proxy/ProxyDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/advice/JsonFilterResponseBodyAdvice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/annotaion/JsonFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/CustomerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/DemoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/JsonFilterController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/entity/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/entity/base/BaseEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/entity/base/Entity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/mapper/CustomerMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/mapper/base/BaseMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/mapper/base/TkBaseMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/vo/CustomerVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/vo/base/BaseVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/domain/CustomerExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/domain/CustomerExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/domain/CustomerExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/domain/CustomerExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/filter/DemoOneFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/intecpter/DemoIntecpter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/intecpter/DemoWebMvcConfigurer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/listener/DemoListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/DemoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/ICustomerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/impl/CustomerServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/impl/DemoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/mapper/CustomerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/templates/fm/demo.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/classes/trigger.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/generated-sources/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/generated-test-sources/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/target/test-classes/com/example/demo/DemoApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/.mvn/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/java/com/learn/distributedsession/DistributedSessionApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/java/com/learn/distributedsession/common/redis/RedisService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/java/com/learn/distributedsession/common/redis/RedisServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/java/com/learn/distributedsession/common/redis/SystemConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/java/com/learn/distributedsession/domain/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/java/com/learn/distributedsession/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/java/com/learn/distributedsession/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/java/com/learn/distributedsession/util/UUIDUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/test/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-session/src/test/java/com/learn/distributedsession/DistributedSessionApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed-session/distributed-session.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learn-decoration/learn-decoration.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/decorate/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/decorate/AbstractDecorate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/decorate/jacket/JacketDecoration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/decorate/plant/PlantDecoration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/decorate/shoe/ShoeDecoration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/role/Hounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/role/Magic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/role/RoleDescription.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/main/java/com/learn/decoration/test/TestDecoration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/src/test/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/classes/com/learn/decoration/decorate/AbstractDecorate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/classes/com/learn/decoration/decorate/jacket/JacketDecoration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/classes/com/learn/decoration/decorate/plant/PlantDecoration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/classes/com/learn/decoration/decorate/shoe/ShoeDecoration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/classes/com/learn/decoration/role/Hounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/classes/com/learn/decoration/role/Magic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/classes/com/learn/decoration/role/RoleDescription.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/classes/com/learn/decoration/test/TestDecoration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/generated-sources/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/learn-decoration-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/maven-status/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-decoration/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learn-java8/learn-java8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/DateFormatThreadLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/ForkJoinCalulate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/MyAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestForkJoinCalulate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestLambda1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestLambda2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestLambda3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestLearnCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestLocalDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestMethodRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestOptional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestSimpleDateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestStreamApi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestStreamApi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestStreamApi3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/entity/SchemaField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/entity/TestTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/entity/Trader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/entity/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/service/FilterEmployess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/service/LambdaGetValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/service/impl/FilterEmployessByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/service/impl/FilterEmployessBySalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/DateFormatThreadLocal$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/DateFormatThreadLocal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/ForkJoinCalulate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/MyAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/MyAnnotations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestForkJoinCalulate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLambda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLambda1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLambda1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLambda1$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLambda1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLambda2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLambda2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLambda3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLearnCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestLocalDateTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestMethodRef.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestOptional.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestSimpleDateFormat$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestSimpleDateFormat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestStreamApi1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestStreamApi2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/TestStreamApi3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/entity/Employee$Status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/entity/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/entity/SchemaField.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/entity/TestTransaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/entity/Trader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/entity/Transaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/service/FilterEmployess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/service/LambdaGetValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/service/impl/FilterEmployessByAge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java8/target/classes/com/learn/java8/service/impl/FilterEmployessBySalary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/._.DS_Store" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learn-proxy/learn-proxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/src/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/src/main/java/com/learn/proxy/FunctionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/src/main/java/com/learn/proxy/TestProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/src/main/java/com/learn/proxy/proxytarget/MathMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/src/main/java/com/learn/proxy/target/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/target/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/target/classes/com/learn/proxy/FunctionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/target/classes/com/learn/proxy/TestProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/target/classes/com/learn/proxy/proxytarget/MathMaker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-proxy/target/classes/com/learn/proxy/target/Owner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/._.DS_Store" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/reflect/learn-reflect.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/src/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/src/main/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/src/main/java/com/learn/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/src/main/java/com/learn/reflect/DemoRefect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/src/test/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/target/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/target/classes/com/learn/bean/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflect/target/classes/com/learn/reflect/DemoRefect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-session/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-session/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-decoration/src/test/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/MyAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/MyAnnotations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <ignored path="$PROJECT_DIR$/distributed-session/target/" />
@@ -354,120 +29,67 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/CustomerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/DemoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-544">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/JsonFilterController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/CustomerServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/mapper/base/TkBaseMapper.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-proxy/src/main/java/com/learn/proxy/TestProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn-proxy/src/main/java/com/learn/proxy/proxytarget/MathMaker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-              <folding>
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/advice/JsonFilterResponseBodyAdvice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/annotaion/JsonFilter.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/distributed-session/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/learn-java8/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/MyAnnotations.java" />
+        <option value="$PROJECT_DIR$/learn-decoration/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-session/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/reflect/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="D:\devtools\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="learn-proxy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="learn-reflect" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="learn-reflect" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-109" />
     <option name="y" value="15" />
     <option name="width" value="1920" />
@@ -481,77 +103,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="foundation-studies-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation-studies-pro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foundation-studies-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation-studies-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foundation-studies-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation-studies-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foundation-studies-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation-studies-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foundation-studies-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation-studies-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foundation-studies-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation-studies-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foundation-studies-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation-studies-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="proxytarget" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/reflect/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn-spring-boot-cloud" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -585,56 +152,145 @@
       <option name="presentableId" value="Default" />
       <updated>1562509361451</updated>
       <workItem from="1562509362895" duration="1231000" />
+      <workItem from="1562554722270" duration="6886000" />
+      <workItem from="1562569103422" duration="269000" />
+      <workItem from="1562569424018" duration="703000" />
     </task>
+    <task id="LOCAL-00001" summary="去除相关没必要的上传文件">
+      <created>1562555647757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562555647758</updated>
+    </task>
+    <task id="LOCAL-00002" summary="去除相关没必要的上传文件">
+      <created>1562556513359</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562556513359</updated>
+    </task>
+    <task id="LOCAL-00003" summary="去除相关没必要的上传文件">
+      <created>1562556644651</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562556644651</updated>
+    </task>
+    <task id="LOCAL-00004" summary="去除相关没必要的上传文件">
+      <created>1562556718089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562556718089</updated>
+    </task>
+    <task id="LOCAL-00005" summary="去除相关没必要的上传文件">
+      <created>1562556779132</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562556779132</updated>
+    </task>
+    <task id="LOCAL-00006" summary="去除相关没必要的上传文件">
+      <created>1562556840968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562556840968</updated>
+    </task>
+    <task id="LOCAL-00007" summary="去除相关没必要的上传文件">
+      <created>1562569741749</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562569741749</updated>
+    </task>
+    <task id="LOCAL-00008" summary="去除相关没必要的上传文件">
+      <created>1562569814551</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562569814551</updated>
+    </task>
+    <task id="LOCAL-00009" summary="去除相关没必要的上传文件">
+      <created>1562569844704</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562569844704</updated>
+    </task>
+    <task id="LOCAL-00010" summary="去除相关没必要的上传文件">
+      <created>1562569897196</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1562569897196</updated>
+    </task>
+    <task id="LOCAL-00011" summary="去除相关没必要的上传文件">
+      <created>1562569927501</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1562569927501</updated>
+    </task>
+    <task id="LOCAL-00012" summary="去除相关没必要的上传文件">
+      <created>1562569950065</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1562569950065</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1231000" />
+    <option name="totallyTimeSpent" value="9089000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1064" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25749466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30859834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.32995737" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3270878" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="去除相关没必要的上传文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="去除相关没必要的上传文件" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/annotaion/JsonFilter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -646,7 +302,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/DemoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-544">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -655,7 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/JsonFilterController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -664,7 +320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/CustomerServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="399">
           <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -675,19 +331,9 @@
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/mapper/base/TkBaseMapper.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/advice/JsonFilterResponseBodyAdvice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn-proxy/src/main/java/com/learn/proxy/TestProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
+        <state relative-caret-position="342">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -696,14 +342,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/advice/JsonFilterResponseBodyAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/annotaion/JsonFilter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-session/mvnw" />
     <entry file="file://$PROJECT_DIR$/learn-proxy/src/main/java/com/learn/proxy/proxytarget/MathMaker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
           <folding>
-            <element signature="e#624#625#0" expanded="true" />
             <element signature="e#677#678#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-decoration/learn-decoration.iml" />
+    <entry file="file://$PROJECT_DIR$/learn-proxy/learn-proxy.iml" />
+    <entry file="file://$PROJECT_DIR$/distributed-session/src/test/java/com/learn/distributedsession/DistributedSessionApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-session/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestLambda3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="80" column="59" selection-start-line="80" selection-start-column="59" selection-end-line="80" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/TestLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-java8/src/main/java/com/learn/java8/MyAnnotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-session/distributed-session.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflect/learn-reflect.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-java8/learn-java8.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflect/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-proxy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="15" selection-start-line="14" selection-start-column="4" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-java8/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-decoration/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-session/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -724,6 +477,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -746,6 +500,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -781,6 +536,18 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

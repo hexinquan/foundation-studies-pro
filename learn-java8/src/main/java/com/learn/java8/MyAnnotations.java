@@ -10,13 +10,11 @@
  */
 package com.learn.java8;
 
-import com.sun.deploy.security.ValidationState;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
-import java.lang.reflect.Field;
 
 /**
  * 〈一句话功能简述〉<br> 

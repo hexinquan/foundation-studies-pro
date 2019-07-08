@@ -3,5 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/distributed-session" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-decoration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-java8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflect" charset="UTF-8" />
   </component>
 </project>

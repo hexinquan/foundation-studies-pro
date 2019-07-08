@@ -6,20 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="learn-java8" />
-        <module name="learn-proxy" />
-        <module name="distributed-session" />
-        <module name="demo" />
-        <module name="learn-decoration" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="demo" target="1.8" />
       <module name="distributed-session" target="1.8" />
       <module name="learn-decoration" target="6" />
-      <module name="learn-java8" target="1.5" />
-      <module name="learn-proxy" target="1.5" />
-      <module name="learn-reflect" target="1.5" />
+      <module name="learn-java8" target="1.8" />
+      <module name="learn-proxy" target="1.8" />
+      <module name="learn-reflect" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
